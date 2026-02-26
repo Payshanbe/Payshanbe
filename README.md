@@ -2,7 +2,7 @@
 <!--      Custom Banner   -->
 <!-- ==================== -->
 
-![header](https://i.pinimg.com/1200x/36/78/76/367876bae284d72b3bd74ffa1e4346d7.jpg)
+![header]([https://i.pinimg.com/1200x/36/78/76/367876bae284d72b3bd74ffa1e4346d7.jpg](https://images6.alphacoders.com/112/thumb-1920-1123556.png))
 
 # 👋 Hey there, I’m **InsomniaSpirit**
 **Full-Stack & Game Developer in progress**  
