@@ -1,8 +1,8 @@
 <!-- ==================== -->
-<!--     Header Banner    -->
+<!--      Custom Banner   -->
 <!-- ==================== -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=InsomniaSpirit&fontSize=45&fontColor=ffffff)
+![header](https://i.pinimg.com/1200x/36/78/76/367876bae284d72b3bd74ffa1e4346d7.jpg)
 
 # 👋 Hey there, I’m **InsomniaSpirit**
 **Full-Stack & Game Developer in progress**  
@@ -68,4 +68,4 @@ Whether it’s web apps or games — I love learning and creating things that lo
 
 ---
 
-> “Great design is not just how it looks — it’s how it works.”  
+> “Great design is not just how it looks — it’s how it works.”
