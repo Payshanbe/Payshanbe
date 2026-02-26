@@ -49,12 +49,11 @@ I love combining frontend design with powerful backend logic.
 
 ## 💼 Projects
 
-### 📌 (Add Your Projects Here)
 > Replace these placeholders with real project info!
 
-- **Project One** — *A cool app made with Next.js*  
-  🔧 Tech: Next.js, Tailwind  
-  📌 Link: `your-link`
+- **Project One** — *A cool app made with React js*  
+  🔧 Tech: React js, Tailwind  
+  📌 Link: (https://github.com/Payshanbe/TaskManager)
 
 - **Project Two** — *Game prototype in Unity*  
   🔧 Tech: Unity, C#
