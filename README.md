@@ -35,9 +35,15 @@ I love combining frontend design with powerful backend logic.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Payshanbe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Payshanbe&layout=compact&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com?user=Payshanbe&theme=tokyonight)
+
+<!-- Статистика активности в виде календаря -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Payshanbe&theme=react-dark&area=true)
+
+<!-- Статистика коммитов по топ-языкам 대신 -->
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Payshanbe&theme=react-dark)
+
+<!-- Альтернативная статистика языков -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Payshanbe&layout=compact&theme=react-dark)
 
 ---
 
