@@ -27,7 +27,7 @@ I love combining frontend design with powerful backend logic.
 | Category | Tools & Languages |
 |----------|------------------|
 | Frontend | React, Next.js, JavaScript, HTML, CSS, Tailwind |
-| Backend  | Prisma |
+| Backend  | Prisma, Next.js |
 | Database | SQLite |
 | Game Dev | Unity |
 
