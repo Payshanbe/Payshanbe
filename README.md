@@ -4,7 +4,7 @@
 
 ![header](https://images6.alphacoders.com/112/thumb-1920-1123556.png)
 
-# 👋 Hey there, I’m **InsomniaSpirit**
+# 👋 Hey there, I’m **WEB DEVELOPER & GAME DEVELOPER**
 **Full-Stack & Game Developer**  
 Creating beautiful UI and engaging experiences.
 
