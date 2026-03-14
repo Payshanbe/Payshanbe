@@ -2,7 +2,7 @@
 <!--      Custom Banner   -->
 <!-- ==================== -->
 
-![header](https://images6.alphacoders.com/112/thumb-1920-1123556.png)
+![header]([https://images6.alphacoders.com/112/thumb-1920-1123556.png](https://i.pinimg.com/736x/dc/66/43/dc6643c730915eb39359fbcceec84a05.jpg))
 
 # 👋 Hey there, I’m **WEB DEVELOPER & GAME DEVELOPER**
 **Full-Stack & Game Developer**  
