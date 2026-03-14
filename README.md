@@ -5,7 +5,7 @@
 ![header](https://images6.alphacoders.com/112/thumb-1920-1123556.png)
 
 # 👋 Hey there, I’m **InsomniaSpirit**
-**Full-Stack & Game Developer in progress**  
+**Full-Stack & Game Developer**  
 Creating beautiful UI and engaging experiences.
 
 ---
@@ -30,6 +30,8 @@ I love combining frontend design with powerful backend logic.
 | Backend  | Prisma, Next.js |
 | Database | SQLite |
 | Game Dev | Unity |
+| UX / UI  | Figma |
+
 
 ---
 
